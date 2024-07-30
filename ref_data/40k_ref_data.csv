@@ -1,0 +1,868 @@
+model_name,game_type_id,unit_size_min,unit_size_max,faction
+Aleya,2,1,1,Adeptus Custodes
+Blade Champion,2,1,1,Adeptus Custodes
+Knight-Centura,2,1,1,Adeptus Custodes
+Shield-Captain,2,1,1,Adeptus Custodes
+Shield-Captain in Allarius Terminator Armour,2,1,1,Adeptus Custodes
+Shield-Captain on Dawneagle Jetbike,2,1,1,Adeptus Custodes
+Trajann Valoris,2,1,1,Adeptus Custodes
+Valerian,2,1,1,Adeptus Custodes
+Custodian Guard,2,4,5,Adeptus Custodes
+Anathema Psykana Rhino,2,1,1,Adeptus Custodes
+Allarus Custodians,2,2,6,Adeptus Custodes
+Custodian Wardens,2,4,5,Adeptus Custodes
+Prosecutors,2,4,10,Adeptus Custodes
+Venerable Contemptor Dreadnought,2,1,1,Adeptus Custodes
+Venerable Land Raider,2,1,1,Adeptus Custodes
+Vertus Praetors,2,2,3,Adeptus Custodes
+Vigilators,2,4,10,Adeptus Custodes
+Witchseekers,2,4,10,Adeptus Custodes
+Agamatus Custodians,2,3,6,Adeptus Custodes
+Aquilon Custodians,2,3,6,Adeptus Custodes
+Ares Gunship,2,1,1,Adeptus Custodes
+Caladius Grav-Tank,2,1,1,Adeptus Custodes
+Contemptor-Achillus Dreadnought,2,1,1,Adeptus Custodes
+Contemptor-Galatus Dreadnought,2,1,1,Adeptus Custodes
+Coronus Grav-Carrier,2,1,1,Adeptus Custodes
+Custodian Guard with Adrasite and Pyrithite Spears,2,5,5,Adeptus Custodes
+Orion Assault Dropship,2,1,1,Adeptus Custodes
+Pallas Grav-Attack,2,1,1,Adeptus Custodes
+Sagittarum Custodians,2,5,5,Adeptus Custodes
+Telemon Heavy Dreadnought,2,1,1,Adeptus Custodes
+Venatari Custodians,2,3,6,Adeptus Custodes
+Aestred Thurga And Agathae Dolan,2,2,2,Adepta Sororitas
+Canoness,2,1,1,Adepta Sororitas
+Canoness with Jump Pack,2,1,1,Adepta Sororitas
+Daemonifuge,2,2,2,Adepta Sororitas
+Dialogus,2,1,1,Adepta Sororitas
+Dogmata,2,1,1,Adepta Sororitas
+Hospitaller,2,1,1,Adepta Sororitas
+Imagifier,2,1,1,Adepta Sororitas
+Junith Eruita,2,1,1,Adepta Sororitas
+Ministorum Priest,2,1,1,Adepta Sororitas
+Morvenn Vahl,2,1,1,Adepta Sororitas
+Palatine,2,1,1,Adepta Sororitas
+Saint Celestine,2,3,3,Adepta Sororitas
+Triumph Of Saint Katherine,2,1,1,Adepta Sororitas
+Battle Sisters Squad,2,10,10,Adepta Sororitas
+Immolator,2,1,1,Adepta Sororitas
+Sororitas Rhino,2,1,1,Adepta Sororitas
+Arco-flagellants,2,3,10,Adepta Sororitas
+Castigator,2,1,1,Adepta Sororitas
+Celestian Sacresants,2,5,10,Adepta Sororitas
+Dominion Squad,2,10,10,Adepta Sororitas
+Exorcist,2,1,1,Adepta Sororitas
+Mortifiers,2,1,2,Adepta Sororitas
+Paragon Warsuits,2,3,3,Adepta Sororitas
+Penitent Engines,2,1,2,Adepta Sororitas
+Repentia Squad,2,5,10,Adepta Sororitas
+Retributor Squad,2,5,5,Adepta Sororitas
+Seraphim Squad,2,5,10,Adepta Sororitas
+Sisters Novitiate Squad,2,10,10,Adepta Sororitas
+Zephyrim Squad,2,5,10,Adepta Sororitas
+Belisarius Cawl,2,1,1,Adeptus Mechanicus
+Cybernetica Datasmith,2,1,1,Adeptus Mechanicus
+Skitarii Marshal,2,1,1,Adeptus Mechanicus
+Sydonian Skatros,2,1,1,Adeptus Mechanicus
+Tech-Priest Dominus,2,1,1,Adeptus Mechanicus
+Tech-Priest Enginseer,2,1,1,Adeptus Mechanicus
+Tech-Priest Manipulus,2,1,1,Adeptus Mechanicus
+Technoarcheologist,2,1,1,Adeptus Mechanicus
+Skitarii Rangers,2,10,10,Adeptus Mechanicus
+Skitarii Vanguard,2,10,10,Adeptus Mechanicus
+Skorpius Dunerider,2,1,1,Adeptus Mechanicus
+Archaeopter Fusilave,2,1,1,Adeptus Mechanicus
+Archaeopter Stratoraptor,2,1,1,Adeptus Mechanicus
+Archaeopter Transvector,2,1,1,Adeptus Mechanicus
+Corpuscarii Electro-Priests,2,5,10,Adeptus Mechanicus
+Fulgurite Electro-Priests,2,5,10,Adeptus Mechanicus
+Ironstrider Ballistarii,2,1,3,Adeptus Mechanicus
+Kastelan Robots,2,2,4,Adeptus Mechanicus
+Kataphron Breachers,2,3,6,Adeptus Mechanicus
+Kataphron Destroyers,2,3,6,Adeptus Mechanicus
+Onager Dunecrawler,2,1,1,Adeptus Mechanicus
+Pteraxii Skystalkers,2,5,10,Adeptus Mechanicus
+Pteraxii Sterylizors,2,5,10,Adeptus Mechanicus
+Serberys Raiders,2,3,6,Adeptus Mechanicus
+Serberys Sulphurhounds,2,3,6,Adeptus Mechanicus
+Sicarian Infiltrators,2,5,10,Adeptus Mechanicus
+Sicarian Ruststalkers,2,5,10,Adeptus Mechanicus
+Skorpius Disintegrator,2,1,1,Adeptus Mechanicus
+Sydonian Dragoons with Radium Jezzails,2,1,3,Adeptus Mechanicus
+Sydonian Dragoons with Taser Lances,2,1,3,Adeptus Mechanicus
+Warhound Titan,2,1,1,Adeptus Titanicus
+Warbringer Nemesis Titan,2,1,1,Adeptus Titanicus
+Reaver Titan,2,1,1,Adeptus Titanicus
+Warlord Titan,2,1,1,Adeptus Titanicus
+Callidus Assassin,2,1,1,Agents of the Imperium
+Culexus Assassin,2,1,1,Agents of the Imperium
+Eversor Assassin,2,1,1,Agents of the Imperium
+Inquisitor,2,1,1,Agents of the Imperium
+Inquisitor Coteaz,2,1,1,Agents of the Imperium
+Inquisitor Eisenhorn,2,1,1,Agents of the Imperium
+Inquisitor Greyfax,2,1,1,Agents of the Imperium
+Inquisitor Karamazov,2,1,1,Agents of the Imperium
+Lord Inquisitor Kyria Draxus,2,1,1,Agents of the Imperium
+Rogue Trader Entourage,2,4,4,Agents of the Imperium
+Vindicare Assassin,2,1,1,Agents of the Imperium
+Vigilant Squad,2,10,11,Agents of the Imperium
+Voidsmen-at-arms,2,5,10,Agents of the Imperium
+Exaction Squad,2,10,11,Agents of the Imperium
+Imperial Navy Breachers,2,10,10,Agents of the Imperium
+Inquisitorial Henchmen,2,4,10,Agents of the Imperium
+Subductor Squad,2,10,11,Agents of the Imperium
+‘Iron Hand’ Straken,2,1,1,Astra Militarum
+Cadian Castellan,2,1,1,Astra Militarum
+Cadian Command Squad,2,5,5,Astra Militarum
+Commissar,2,1,1,Astra Militarum
+Gaunt’s Ghosts,2,6,6,Astra Militarum
+Lord Solar Leontus,2,1,1,Astra Militarum
+Militarum Tempestus Command Squad,2,5,5,Astra Militarum
+Ministorum Priest,2,1,1,Astra Militarum
+Platoon Command Squad,2,4,5,Astra Militarum
+Primaris Psyker,2,1,1,Astra Militarum
+Sergeant Harker,2,1,1,Astra Militarum
+Sly Marbo,2,1,1,Astra Militarum
+Tank Commander,2,1,1,Astra Militarum
+Tech-Priest Enginseer,2,1,1,Astra Militarum
+Ursula Creed,2,1,1,Astra Militarum
+Death Korps Marshal,2,1,1,Astra Militarum
+Death Rider Squadron Commander,2,1,1,Astra Militarum
+Cadian Shock Troops,2,10,20,Astra Militarum
+Catachan Jungle Fighters,2,10,20,Astra Militarum
+Death Korps Of Krieg,2,10,20,Astra Militarum
+Infantry Squad,2,9,20,Astra Militarum
+Chimera,2,1,1,Astra Militarum
+Taurox,2,1,1,Astra Militarum
+Taurox Prime,2,1,1,Astra Militarum
+Aegis Defence Line,2,1,1,Astra Militarum
+Armoured Sentinels,2,1,3,Astra Militarum
+Attilan Rough Riders,2,5,10,Astra Militarum
+Baneblade,2,1,1,Astra Militarum
+Banehammer,2,1,1,Astra Militarum
+Banesword,2,1,1,Astra Militarum
+Basilisk,2,1,1,Astra Militarum
+Bullgryn Squad,2,3,6,Astra Militarum
+Deathstrike,2,1,1,Astra Militarum
+Doomhammer,2,1,1,Astra Militarum
+Field Ordnance Battery,2,2,2,Astra Militarum
+Heavy Weapons Squad,2,3,3,Astra Militarum
+Hellhammer,2,1,1,Astra Militarum
+Hellhound,2,1,1,Astra Militarum
+Hydra,2,1,1,Astra Militarum
+Kasrkin,2,10,10,Astra Militarum
+Leman Russ Battle Tank,2,1,1,Astra Militarum
+Leman Russ Demolisher,2,1,1,Astra Militarum
+Leman Russ Eradicator,2,1,1,Astra Militarum
+Leman Russ Executioner,2,1,1,Astra Militarum
+Leman Russ Exterminator,2,1,1,Astra Militarum
+Leman Russ Punisher,2,1,1,Astra Militarum
+Leman Russ Vanquisher,2,1,1,Astra Militarum
+Manticore,2,1,1,Astra Militarum
+Munitorum Servitors,2,4,4,Astra Militarum
+Nork Deddog,2,1,1,Astra Militarum
+Ogryn Bodyguard,2,1,1,Astra Militarum
+Ogryn Squad,2,3,6,Astra Militarum
+Ratling Snipers,2,5,5,Astra Militarum
+Regimental Attachés,2,3,3,Astra Militarum
+Rogal Dorn Battle Tank,2,1,1,Astra Militarum
+Scout Sentinels,2,1,3,Astra Militarum
+Shadowsword,2,1,1,Astra Militarum
+Stormlord,2,1,1,Astra Militarum
+Stormsword,2,1,1,Astra Militarum
+Tempestus Scions,2,5,10,Astra Militarum
+Valkyrie,2,1,1,Astra Militarum
+Wyvern,2,1,1,Astra Militarum
+Avenger Strike Fighter,2,1,1,Astra Militarum
+Carnodon,2,1,1,Astra Militarum
+Colossus,2,1,1,Astra Militarum
+Crassus,2,1,1,Astra Militarum
+Cyclops Demolition Vehicle,2,1,1,Astra Militarum
+Death Rider Squadron,2,5,10,Astra Militarum
+Earthshaker Carriage Battery,2,1,1,Astra Militarum
+Hades Breaching Drill,2,1,1,Astra Militarum
+Macharius,2,1,1,Astra Militarum
+Macharius Vanquisher,2,1,1,Astra Militarum
+Macharius Vulcan,2,1,1,Astra Militarum
+Malcador,2,1,1,Astra Militarum
+Malcador Annihilator,2,1,1,Astra Militarum
+Malcador Defender,2,1,1,Astra Militarum
+Malcador Infernus,2,1,1,Astra Militarum
+Marauder Bomber,2,1,1,Astra Militarum
+Marauder Destroyer,2,1,1,Astra Militarum
+Medusa Carriage Battery,2,1,1,Astra Militarum
+Praetor,2,1,1,Astra Militarum
+Rapier Laser Destroyer Battery,2,1,3,Astra Militarum
+Stormblade,2,1,1,Astra Militarum
+Tarantula Battery,2,1,3,Astra Militarum
+Thunderbolt Heavy Fighter,2,1,1,Astra Militarum
+Trojan Support Vehicle,2,1,1,Astra Militarum
+Valdor,2,1,1,Astra Militarum
+Voss-pattern Lightning,2,1,1,Astra Militarum
+Vulture Gunship,2,1,1,Astra Militarum
+Brother-captain,2,1,1,Grey Knights
+Brother-captain Stern,2,1,1,Grey Knights
+Brotherhood Champion,2,1,1,Grey Knights
+Brotherhood Chaplain,2,1,1,Grey Knights
+Brotherhood Librarian,2,1,1,Grey Knights
+Brotherhood Techmarine,2,1,1,Grey Knights
+Castellan Crowe,2,1,1,Grey Knights
+Grand Master,2,1,1,Grey Knights
+Grand Master In Nemesis Dreadknight,2,1,1,Grey Knights
+Grand Master Voldus,2,1,1,Grey Knights
+Kaldor Draigo,2,1,1,Grey Knights
+Brotherhood Terminator Squad,2,5,10,Grey Knights
+Strike Squad,2,5,10,Grey Knights
+Grey Knights Razorback,2,1,1,Grey Knights
+Grey Knights Rhino,2,1,1,Grey Knights
+Grey Knights Land Raider,2,1,1,Grey Knights
+Grey Knights Land Raider Crusader,2,1,1,Grey Knights
+Grey Knights Land Raider Redeemer,2,1,1,Grey Knights
+Grey Knights Stormhawk Interceptor,2,1,1,Grey Knights
+Grey Knights Stormraven Gunship,2,1,1,Grey Knights
+Grey Knights Stormtalon Gunship,2,1,1,Grey Knights
+Grey Knights Venerable Dreadnought,2,1,1,Grey Knights
+Interceptor Squad,2,5,10,Grey Knights
+Nemesis Dreadknight,2,1,1,Grey Knights
+Paladin Squad,2,5,10,Grey Knights
+Purgation Squad,2,5,10,Grey Knights
+Purifier Squad,2,5,10,Grey Knights
+Servitors,2,4,4,Grey Knights
+Grey Knights Thunderhawk Gunship,2,1,1,Grey Knights
+Land Raider Banisher,2,1,1,Grey Knights
+Canis Rex,2,1,1,Imperial Knights
+Knight Castellan,2,1,1,Imperial Knights
+Knight Crusader,2,1,1,Imperial Knights
+Knight Errant,2,1,1,Imperial Knights
+Knight Gallant,2,1,1,Imperial Knights
+Knight Paladin,2,1,1,Imperial Knights
+Knight Preceptor,2,1,1,Imperial Knights
+Knight Valiant,2,1,1,Imperial Knights
+Knight Warden,2,1,1,Imperial Knights
+Sir Hekhtur,2,1,1,Imperial Knights
+Cerastus Knight Acheron,2,1,1,Imperial Knights
+Cerastus Knight Atrapos,2,1,1,Imperial Knights
+Cerastus Knight Castigator,2,1,1,Imperial Knights
+Cerastus Knight Lancer,2,1,1,Imperial Knights
+Questoris Knight Magaera,2,1,1,Imperial Knights
+Questoris Knight Styrix,2,1,1,Imperial Knights
+Armiger Helverin,2,1,1,Imperial Knights
+Armiger Warglaive,2,1,1,Imperial Knights
+Armiger Moirax,2,1,1,Imperial Knights
+Acastus Knight Asterius,2,1,1,Imperial Knights
+Acastus Knight Porphyrion,2,1,1,Imperial Knights
+Ancient,2,1,1,Space Marines
+Ancient In Terminator Armour,2,1,1,Space Marines
+Apothecary,2,1,1,Space Marines
+Apothecary Biologis,2,1,1,Space Marines
+Bladeguard Ancient,2,1,1,Space Marines
+Captain,2,1,1,Space Marines
+Captain In Gravis Armour,2,1,1,Space Marines
+Captain In Phobos Armour,2,1,1,Space Marines
+Captain In Terminator Armour,2,1,1,Space Marines
+Captain With Jump Pack,2,1,1,Space Marines
+Chaplain,2,1,1,Space Marines
+Chaplain In Terminator Armour,2,1,1,Space Marines
+Chaplain On Bike,2,1,1,Space Marines
+Chaplain With Jump Pack,2,1,1,Space Marines
+Judiciar,2,1,1,Space Marines
+Librarian,2,1,1,Space Marines
+Librarian In Phobos Armour,2,1,1,Space Marines
+Librarian In Terminator Armour,2,1,1,Space Marines
+Lieutenant,2,1,1,Space Marines
+Lieutenant In Phobos Armour,2,1,1,Space Marines
+Lieutenant In Reiver Armour,2,1,1,Space Marines
+Lieutenant With Combi-weapon,2,1,1,Space Marines
+Techmarine,2,1,1,Space Marines
+Assault Intercessor Squad,2,5,10,Space Marines
+Heavy Intercessor Squad,2,5,10,Space Marines
+Intercessor Squad,2,5,10,Space Marines
+Tactical Squad,2,10,10,Space Marines
+Impulsor,2,1,1,Space Marines
+Razorback,2,1,1,Space Marines
+Rhino,2,1,1,Space Marines
+Hammerfall Bunker,2,1,1,Space Marines
+Aggressor Squad,2,3,6,Space Marines
+Assault Intercessors With Jump Packs,2,5,10,Space Marines
+Ballistus Dreadnought,2,1,1,Space Marines
+Bladeguard Veteran Squad,2,3,6,Space Marines
+Brutalis Dreadnought,2,1,1,Space Marines
+Centurion Assault Squad,2,3,6,Space Marines
+Centurion Devastator Squad,2,3,6,Space Marines
+Company Heroes,2,4,4,Space Marines
+Desolation Squad,2,5,5,Space Marines
+Devastator Squad,2,5,10,Space Marines
+Dreadnought,2,1,1,Space Marines
+Drop Pod,2,1,1,Space Marines
+Eliminator Squad,2,3,3,Space Marines
+Eradicator Squad,2,3,6,Space Marines
+Firestrike Servo-turrets,2,1,2,Space Marines
+Gladiator Lancer,2,1,1,Space Marines
+Gladiator Reaper,2,1,1,Space Marines
+Gladiator Valiant,2,1,1,Space Marines
+Hellblaster Squad,2,5,10,Space Marines
+Inceptor Squad,2,3,6,Space Marines
+Incursor Squad,2,5,10,Space Marines
+Infernus Squad,2,5,10,Space Marines
+Infiltrator Squad,2,5,10,Space Marines
+Invader ATV,2,5,10,Space Marines
+Invictor Tactical Warsuit,2,1,1,Space Marines
+Land Raider,2,1,1,Space Marines
+Land Raider Crusader,2,1,1,Space Marines
+Land Raider Redeemer,2,1,1,Space Marines
+Outrider Squad,2,3,6,Space Marines
+Predator Annihilator,2,1,1,Space Marines
+Predator Destructor,2,1,1,Space Marines
+Redemptor Dreadnought,2,1,1,Space Marines
+Reiver Squad,2,5,10,Space Marines
+Repulsor,2,1,1,Space Marines
+Repulsor Executioner,2,1,1,Space Marines
+Scout Squad,2,5,10,Space Marines
+Sternguard Veteran Squad,2,5,10,Space Marines
+Storm Speeder Hailstrike,2,1,1,Space Marines
+Storm Speeder Hammerstrike,2,1,1,Space Marines
+Storm Speeder Thunderstrike,2,1,1,Space Marines
+Stormhawk Interceptor,2,1,1,Space Marines
+Stormraven Gunship,2,1,1,Space Marines
+Stormtalon Gunship,2,1,1,Space Marines
+Suppressor Squad,2,3,3,Space Marines
+Terminator Assault Squad,2,5,10,Space Marines
+Terminator Squad,2,5,10,Space Marines
+Vanguard Veteran Squad With Jump Packs,2,5,10,Space Marines
+Vindicator,2,1,1,Space Marines
+Whirlwind,2,1,1,Space Marines
+Astraeus,2,1,1,Space Marines
+Thunderhawk Gunship,2,1,1,Space Marines
+Be’lakor,2,1,1,Chaos Daemons
+Bloodmaster,2,1,1,Chaos Daemons
+Bloodthirster,2,1,1,Chaos Daemons
+Changecaster,2,1,1,Chaos Daemons
+Contorted Epitome,2,1,1,Chaos Daemons
+Daemon Prince Of Chaos,2,1,1,Chaos Daemons
+Daemon Prince Of Chaos With Wings,2,1,1,Chaos Daemons
+Epidemius,2,1,1,Chaos Daemons
+Exalted Flamer,2,1,1,Chaos Daemons
+Fateskimmer,2,1,1,Chaos Daemons
+Fluxmaster,2,1,1,Chaos Daemons
+Great Unclean One,2,1,1,Chaos Daemons
+Horticulous Slimux,2,1,1,Chaos Daemons
+Infernal Enrapturess,2,1,1,Chaos Daemons
+Kairos Fateweaver,2,1,1,Chaos Daemons
+Karanak,2,1,1,Chaos Daemons
+Keeper Of Secrets,2,1,1,Chaos Daemons
+Lord Of Change,2,1,1,Chaos Daemons
+Poxbringer,2,1,1,Chaos Daemons
+Rendmaster On Blood Throne,2,1,1,Chaos Daemons
+Rotigus,2,1,1,Chaos Daemons
+Shalaxi Helbane,2,1,1,Chaos Daemons
+Skarbrand,2,1,1,Chaos Daemons
+Skullmaster,2,1,1,Chaos Daemons
+Skulltaker,2,1,1,Chaos Daemons
+Sloppity Bilepiper,2,1,1,Chaos Daemons
+Spoilpox Scrivener,2,1,1,Chaos Daemons
+Syll’esske,2,1,1,Chaos Daemons
+The Blue Scribes,2,1,1,Chaos Daemons
+The Changeling,2,1,1,Chaos Daemons
+The Masque Of Slaanesh,2,1,1,Chaos Daemons
+Tormentbringer On Exalted Seeker Chariot,2,1,1,Chaos Daemons
+Tranceweaver,2,1,1,Chaos Daemons
+Bloodletters,2,10,10,Chaos Daemons
+Blue Horrors,2,10,10,Chaos Daemons
+Daemonettes,2,10,10,Chaos Daemons
+Nurglings,2,3,9,Chaos Daemons
+Pink Horrors,2,10,10,Chaos Daemons
+Plaguebearers,2,10,10,Chaos Daemons
+Feculent Gnarlmaw,2,1,1,Chaos Daemons
+Skull Altar,2,1,1,Chaos Daemons
+Beasts Of Nurgle,2,1,2,Chaos Daemons
+Bloodcrushers,2,3,6,Chaos Daemons
+Burning Chariot,2,1,1,Chaos Daemons
+Exalted Seeker Chariot,2,1,1,Chaos Daemons
+Fiends,2,3,6,Chaos Daemons
+Flamers,2,3,6,Chaos Daemons
+Flesh Hounds,2,5,10,Chaos Daemons
+Hellflayer,2,1,2,Chaos Daemons
+Plague Drones,2,3,6,Chaos Daemons
+Screamers,2,3,6,Chaos Daemons
+Seeker Chariot,2,1,2,Chaos Daemons
+Seekers,2,5,10,Chaos Daemons
+Skull Cannon,2,1,1,Chaos Daemons
+Soul Grinder,2,1,1,Chaos Daemons
+Knight Abominant,2,1,1,Chaos Knights
+Knight Desecrator,2,1,1,Chaos Knights
+Knight Despoiler,2,1,1,Chaos Knights
+Knight Rampager,2,1,1,Chaos Knights
+Knight Tyrant,2,1,1,Chaos Knights
+War Dog Stalker,2,1,1,Chaos Knights
+Chaos Cerastus Knight Acheron,2,1,1,Chaos Knights
+Chaos Cerastus Knight Atrapos,2,1,1,Chaos Knights
+Chaos Cerastus Knight Castigator,2,1,1,Chaos Knights
+Chaos Cerastus Knight Lancer,2,1,1,Chaos Knights
+Chaos Questoris Knight Magaera,2,1,1,Chaos Knights
+Chaos Questoris Knight Styrix,2,1,1,Chaos Knights
+War Dog Brigand,2,1,1,Chaos Knights
+War Dog Executioner,2,1,1,Chaos Knights
+War Dog Huntsman,2,1,1,Chaos Knights
+War Dog Karnivore,2,1,1,Chaos Knights
+War Dog Moirax,2,1,1,Chaos Knights
+Chaos Acastus Knight Asterius,2,1,1,Chaos Knights
+Chaos Acastus Knight Porphyrion,2,1,1,Chaos Knights
+Abaddon The Despoiler,2,1,1,Chaos Space Marines
+Chaos Lord,2,1,1,Chaos Space Marines
+Chaos Lord In Terminator Armour,2,1,1,Chaos Space Marines
+Chaos Lord with Jump Pack,2,1,1,Chaos Space Marines
+Cultist Firebrand,2,1,1,Chaos Space Marines
+Cypher,2,1,1,Chaos Space Marines
+Dark Apostle,2,3,3,Chaos Space Marines
+Dark Commune,2,5,5,Chaos Space Marines
+Fabius Bile,2,2,2,Chaos Space Marines
+Haarken Worldclaimer,2,1,1,Chaos Space Marines
+Heretic Astartes Daemon Prince,2,1,1,Chaos Space Marines
+Heretic Astartes Daemon Prince With Wings,2,1,1,Chaos Space Marines
+Huron Blackheart,2,1,1,Chaos Space Marines
+Lord Discordant On Helstalker,2,1,1,Chaos Space Marines
+Master Of Executions,2,1,1,Chaos Space Marines
+Master Of Possession,2,1,1,Chaos Space Marines
+Sorcerer,2,1,1,Chaos Space Marines
+Sorcerer In Terminator Armour,2,1,1,Chaos Space Marines
+Traitor Enforcer,2,2,2,Chaos Space Marines
+Vashtorr The Arkifane,2,1,1,Chaos Space Marines
+Warpsmith,2,1,1,Chaos Space Marines
+Lucius The Eternal,2,1,1,Chaos Space Marines
+Cultist Mob,2,10,20,Chaos Space Marines
+Legionaries,2,5,10,Chaos Space Marines
+Khorne Berzerkers,2,5,10,Chaos Space Marines
+Plague Marines,2,5,10,Chaos Space Marines
+Rubric Marines,2,5,10,Chaos Space Marines
+Chaos Rhino,2,1,1,Chaos Space Marines
+Noctilith Crown,2,1,1,Chaos Space Marines
+Accursed Cultists,2,8,16,Chaos Space Marines
+Chaos Bikers,2,3,6,Chaos Space Marines
+Chaos Land Raider,2,1,1,Chaos Space Marines
+Chaos Predator Annihilator,2,1,1,Chaos Space Marines
+Chaos Predator Destructor,2,1,1,Chaos Space Marines
+Chaos Spawn,2,2,2,Chaos Space Marines
+Chaos Terminator Squad,2,5,10,Chaos Space Marines
+Chaos Vindicator,2,1,1,Chaos Space Marines
+Chosen,2,5,10,Chaos Space Marines
+Defiler,2,1,1,Chaos Space Marines
+Fellgor Beastmen,2,10,10,Chaos Space Marines
+Forgefiend,2,1,1,Chaos Space Marines
+Havocs,2,5,5,Chaos Space Marines
+Helbrute,2,1,1,Chaos Space Marines
+Heldrake,2,1,1,Chaos Space Marines
+Khorne Lord Of Skulls,2,1,1,Chaos Space Marines
+Maulerfiend,2,1,1,Chaos Space Marines
+Obliterators,2,2,2,Chaos Space Marines
+Possessed,2,5,10,Chaos Space Marines
+Raptors,2,5,10,Chaos Space Marines
+Traitor Guardsmen Squad,2,10,10,Chaos Space Marines
+Venomcrawler,2,1,1,Chaos Space Marines
+Warp Talons,2,5,10,Chaos Space Marines
+Noise Marines,2,5,10,Chaos Space Marines
+Biologus Putrifier,2,1,1,Death Guard
+Death Guard Chaos Lord,2,1,1,Death Guard
+Death Guard Chaos Lord In Terminator Armour,2,1,1,Death Guard
+Death Guard Daemon Prince,2,1,1,Death Guard
+Death Guard Daemon Prince With Wings,2,1,1,Death Guard
+Death Guard Icon Bearer,2,1,1,Death Guard
+Death Guard Sorcerer In Terminator Armour,2,1,1,Death Guard
+Foul Blightspawn,2,1,1,Death Guard
+Lord Of Contagion,2,1,1,Death Guard
+Lord Of Virulence,2,1,1,Death Guard
+Malignant Plaguecaster,2,1,1,Death Guard
+Mortarion,2,1,1,Death Guard
+Noxious Blightbringer,2,1,1,Death Guard
+Plague Surgeon,2,1,1,Death Guard
+Tallyman,2,1,1,Death Guard
+Typhus,2,1,1,Death Guard
+Plague Marines,2,5,10,Death Guard
+Death Guard Rhino,2,1,1,Death Guard
+Miasmic Malignifier,2,1,1,Death Guard
+Blightlord Terminators,2,5,10,Death Guard
+Death Guard Chaos Spawn,2,2,2,Death Guard
+Death Guard Cultists,2,10,20,Death Guard
+Death Guard Defiler,2,1,1,Death Guard
+Death Guard Helbrute,2,1,1,Death Guard
+Death Guard Land Raider,2,1,1,Death Guard
+Death Guard Predator Annihilator,2,1,1,Death Guard
+Death Guard Predator Destructor,2,1,1,Death Guard
+Deathshroud Terminators,2,3,6,Death Guard
+Foetid Bloat-drone,2,1,1,Death Guard
+Myphitic Blight-haulers,2,1,3,Death Guard
+Plagueburst Crawler,2,1,1,Death Guard
+Poxwalkers,2,10,20,Death Guard
+Ahriman,2,1,1,Thousand Sons
+Ahriman On Disc Of Tzeentch,2,1,1,Thousand Sons
+Exalted Sorcerer,2,1,1,Thousand Sons
+Exalted Sorcerer On Disc Of Tzeentch,2,1,1,Thousand Sons
+Infernal Master,2,1,1,Thousand Sons
+Magnus The Red,2,1,1,Thousand Sons
+Thousand Sons Daemon Prince,2,1,1,Thousand Sons
+Thousand Sons Daemon Prince With Wings,2,1,1,Thousand Sons
+Thousand Sons Sorcerer,2,1,1,Thousand Sons
+Thousand Sons Sorcerer In Terminator Armour,2,1,1,Thousand Sons
+Tzaangor Shaman,2,1,1,Thousand Sons
+Rubric Marines,2,5,10,Thousand Sons
+Tzaangors,2,10,20,Thousand Sons
+Thousand Sons Rhino,2,1,1,Thousand Sons
+Mutalith Vortex Beast,2,1,1,Thousand Sons
+Scarab Occult Terminators,2,5,10,Thousand Sons
+Thousand Sons Chaos Spawn,2,2,2,Thousand Sons
+Thousand Sons Cultists,2,10,20,Thousand Sons
+Thousand Sons Defiler,2,1,1,Thousand Sons
+Thousand Sons Forgefiend,2,1,1,Thousand Sons
+Thousand Sons Helbrute,2,1,1,Thousand Sons
+Thousand Sons Heldrake,2,1,1,Thousand Sons
+Thousand Sons Land Raider,2,1,1,Thousand Sons
+Thousand Sons Maulerfiend,2,1,1,Thousand Sons
+Thousand Sons Predator Annihilator,2,1,1,Thousand Sons
+Thousand Sons Predator Destructor,2,1,1,Thousand Sons
+Thousand Sons Vindicator,2,1,1,Thousand Sons
+Tzaangor Enlightened,2,3,6,Thousand Sons
+Angron,2,1,1,World Eaters
+Khârn The Betrayer,2,1,1,World Eaters
+Lord Invocatus,2,1,1,World Eaters
+World Eaters Daemon Prince,2,1,1,World Eaters
+World Eaters Daemon Prince With Wings,2,1,1,World Eaters
+World Eaters Lord On Juggernaut,2,1,1,World Eaters
+World Eaters Master Of Executions,2,1,1,World Eaters
+Jakhals,2,10,20,World Eaters
+Khorne Berzerkers,2,5,10,World Eaters
+World Eaters Rhino,2,1,1,World Eaters
+Eightbound,2,3,6,World Eaters
+Exalted Eightbound,2,3,6,World Eaters
+Khorne Lord Of Skulls,2,1,1,World Eaters
+World Eaters Chaos Spawn,2,2,2,World Eaters
+World Eaters Defiler,2,1,1,World Eaters
+World Eaters Forgefiend,2,1,1,World Eaters
+World Eaters Helbrute,2,1,1,World Eaters
+World Eaters Heldrake,2,1,1,World Eaters
+World Eaters Land Raider,2,1,1,World Eaters
+World Eaters Maulerfiend,2,1,1,World Eaters
+World Eaters Predator Annihilator,2,1,1,World Eaters
+World Eaters Predator Destructor,2,1,1,World Eaters
+World Eaters Terminator Squad,2,5,10,World Eaters
+Asurmen,2,1,1,Aeldari
+Autarch,2,1,1,Aeldari
+Autarch Skyrunner,2,1,1,Aeldari
+Autarch Wayleaper,2,1,1,Aeldari
+Avatar Of Khaine,2,1,1,Aeldari
+Baharroth,2,1,1,Aeldari
+Death Jester,2,1,1,Aeldari
+Eldrad Ulthran,2,1,1,Aeldari
+Farseer,2,1,1,Aeldari
+Farseer Skyrunner,2,1,1,Aeldari
+Fuegan,2,1,1,Aeldari
+Illic Nightspear,2,1,1,Aeldari
+Jain Zar,2,1,1,Aeldari
+Karandras,2,1,1,Aeldari
+Maugan Ra,2,1,1,Aeldari
+Prince Yriel,2,1,1,Aeldari
+Shadowseer,2,1,1,Aeldari
+Solitaire,2,1,1,Aeldari
+Spiritseer,2,1,1,Aeldari
+The Visarch,2,1,1,Aeldari
+The Yncarne,2,1,1,Aeldari
+Troupe Master,2,1,1,Aeldari
+Warlock,2,1,1,Aeldari
+Warlock Skyrunner,2,1,1,Aeldari
+Yvraine,2,1,1,Aeldari
+Irillyth,2,1,1,Aeldari
+Corsair Voidreavers,2,5,10,Aeldari
+Guardian Defenders,2,11,11,Aeldari
+Storm Guardians,2,11,11,Aeldari
+Starweaver,2,1,1,Aeldari
+Wave Serpent,2,1,1,Aeldari
+Webway Gate,2,2,2,Aeldari
+Corsair Voidscarred,2,5,10,Aeldari
+Crimson Hunter,2,1,1,Aeldari
+Dark Reapers,2,5,10,Aeldari
+Dire Avengers,2,5,10,Aeldari
+Falcon,2,1,1,Aeldari
+Fire Dragons,2,5,10,Aeldari
+Fire Prism,2,1,1,Aeldari
+Hemlock Wraithfighter,2,1,1,Aeldari
+Howling Banshees,2,5,10,Aeldari
+Night Spinner,2,1,1,Aeldari
+Rangers,2,5,10,Aeldari
+Shining Spears,2,3,6,Aeldari
+Shroud Runners,2,3,6,Aeldari
+Skyweavers,2,2,4,Aeldari
+Striking Scorpions,2,5,10,Aeldari
+Support Weapons,2,1,1,Aeldari
+Swooping Hawks,2,5,10,Aeldari
+Troupe,2,5,12,Aeldari
+Voidweaver,2,1,1,Aeldari
+Vyper,2,1,1,Aeldari
+War Walker,2,1,1,Aeldari
+Warlock Conclave,2,2,4,Aeldari
+Warlock Skyrunner Conclave,2,2,3,Aeldari
+Warp Spiders,2,5,10,Aeldari
+Windriders,2,3,9,Aeldari
+Wraithblades,2,5,10,Aeldari
+Wraithguard,2,5,10,Aeldari
+Wraithknight,2,1,1,Aeldari
+Wraithlord,2,1,1,Aeldari
+Cobra,2,1,1,Aeldari
+Hornet,2,1,1,Aeldari
+Lynx,2,1,1,Aeldari
+Nightwing,2,1,1,Aeldari
+Phantom Titan,2,1,1,Aeldari
+Revenant Titan,2,1,1,Aeldari
+Scorpion,2,1,1,Aeldari
+Shadow Spectres,2,5,10,Aeldari
+Skathach Wraithknight,2,1,1,Aeldari
+Warp Hunter,2,1,1,Aeldari
+Wraithseer,2,1,1,Aeldari
+Archon,2,1,1,Drukhari
+Beastmaster,2,7,7,Drukhari
+Drazhar,2,1,1,Drukhari
+Haemonculus,2,1,1,Drukhari
+Lelith Hesperax,2,1,1,Drukhari
+Succubus,2,1,1,Drukhari
+Urien Rakarth,2,1,1,Drukhari
+Kabalite Warriors,2,10,10,Drukhari
+Wracks,2,5,10,Drukhari
+Wyches,2,10,10,Drukhari
+Raider,2,1,1,Drukhari
+Venom,2,1,1,Drukhari
+Court Of The Archon,2,4,4,Drukhari
+Cronos,2,1,2,Drukhari
+Grotesques,2,3,6,Drukhari
+Hellions,2,5,10,Drukhari
+Incubi,2,5,10,Drukhari
+Mandrakes,2,5,10,Drukhari
+Ravager,2,1,1,Drukhari
+Razorwing Jetfighter,2,1,1,Drukhari
+Reavers,2,3,6,Drukhari
+Scourges,2,5,10,Drukhari
+Talos,2,1,2,Drukhari
+Voidraven Bomber,2,1,1,Drukhari
+Tantalus,2,1,1,Drukhari
+Abominant,2,1,1,Genestealer Cults
+Acolyte Iconward,2,1,1,Genestealer Cults
+Biophagus,2,1,1,Genestealer Cults
+Clamavus,2,1,1,Genestealer Cults
+Jackal Alphus,2,1,1,Genestealer Cults
+Kelermorph,2,1,1,Genestealer Cults
+Locus,2,1,1,Genestealer Cults
+Magus,2,1,1,Genestealer Cults
+Nexos,2,1,1,Genestealer Cults
+Patriarch,2,1,1,Genestealer Cults
+Primus,2,1,1,Genestealer Cults
+Reductus Saboteur,2,1,1,Genestealer Cults
+Sanctus,2,1,1,Genestealer Cults
+Acolyte Hybrids,2,5,10,Genestealer Cults
+Neophyte Hybrids,2,10,20,Genestealer Cults
+Goliath Truck,2,1,1,Genestealer Cults
+Aberrants,2,5,10,Genestealer Cults
+Achilles Ridgerunners,2,1,2,Genestealer Cults
+Atalan Jackals,2,5,10,Genestealer Cults
+Goliath Rockgrinder,2,1,1,Genestealer Cults
+Hybrid Metamorphs,2,5,10,Genestealer Cults
+Purestrain Genestealers,2,5,10,Genestealer Cults
+Brôkhyr Iron-master,2,5,5,Leagues of Votann
+Einhyr Champion,2,1,1,Leagues of Votann
+Grimnyr,2,3,3,Leagues of Votann
+Kâhl,2,1,1,Leagues of Votann
+Ûthar the Destined,2,1,1,Leagues of Votann
+Hearthkyn Warriors,2,10,10,Leagues of Votann
+Sagitaur,2,1,1,Leagues of Votann
+Brôkhyr Thunderkyn,2,3,6,Leagues of Votann
+Cthonian Beserks,2,5,10,Leagues of Votann
+Einhyr Hearthguard,2,5,10,Leagues of Votann
+Hekaton Land Fortress,2,1,1,Leagues of Votann
+Hernkyn Pioneers,2,3,6,Leagues of Votann
+Hernkyn Yaegirs,2,10,10,Leagues of Votann
+C’tan Shard Of The Deceiver,2,1,1,Necrons
+C’tan Shard Of The Nightbringer,2,1,1,Necrons
+C’tan Shard Of The Void Dragon,2,1,1,Necrons
+Catacomb Command Barge,2,1,1,Necrons
+Chronomancer,2,1,1,Necrons
+Hexmark Destroyer,2,1,1,Necrons
+Illuminor Szeras,2,1,1,Necrons
+Imotekh The Stormlord,2,1,1,Necrons
+Lokhust Lord,2,1,1,Necrons
+Orikan The Diviner,2,1,1,Necrons
+Overlord,2,1,1,Necrons
+Overlord with translocation shroud,2,1,1,Necrons
+Plasmancer,2,1,1,Necrons
+Psychomancer,2,1,1,Necrons
+Royal Warden,2,1,1,Necrons
+Skorpekh Lord,2,1,1,Necrons
+Technomancer,2,1,1,Necrons
+The Silent King,2,3,3,Necrons
+Transcendent C’tan,2,1,1,Necrons
+Trazyn The Infinite,2,1,1,Necrons
+Immortals ,2,5,10,Necrons
+Necron Warriors,2,10,20,Necrons
+Ghost Ark,2,1,1,Necrons
+Convergence of Dominion,2,1,3,Necrons
+Annihilation Barge,2,1,1,Necrons
+Canoptek Doomstalker,2,1,1,Necrons
+Canoptek Reanimator,2,1,1,Necrons
+Canoptek Scarab Swarms,2,3,6,Necrons
+Canoptek Spyders,2,1,2,Necrons
+Canoptek Wraiths,2,3,6,Necrons
+Cryptothralls,2,2,2,Necrons
+Deathmarks,2,5,10,Necrons
+Doom Scythe,2,1,1,Necrons
+Doomsday Ark,2,1,1,Necrons
+Flayed Ones,2,5,10,Necrons
+Lokhust Destroyers,2,1,6,Necrons
+Lokhust Heavy Destroyers,2,1,3,Necrons
+Lychguard,2,5,10,Necrons
+Monolith,2,1,1,Necrons
+Night Scythe,2,1,1,Necrons
+Obelisk,2,1,1,Necrons
+Ophydian Destroyers,2,3,6,Necrons
+Skorpekh Destroyers,2,3,6,Necrons
+Tesseract Vault,2,1,1,Necrons
+Tomb Blades,2,3,6,Necrons
+Triarch Praetorians,2,5,10,Necrons
+Triarch Stalker,2,1,1,Necrons
+Seraptek Heavy Construct,2,1,1,Necrons
+Beastboss,2,1,1,Orks
+Beastboss On Squigosaur,2,1,1,Orks
+Big Mek,2,1,1,Orks
+Big Mek In Mega Armour,2,1,1,Orks
+Big Mek With Shokk Attack Gun,2,1,1,Orks
+Boss Snikrot,2,1,1,Orks
+Deffkilla Wartrike,2,1,1,Orks
+Ghazghkull Thraka,2,2,2,Orks
+Mek,2,1,1,Orks
+Mozrog Skragbad,2,1,1,Orks
+Painboss,2,1,1,Orks
+Painboy,2,1,1,Orks
+Warboss,2,1,1,Orks
+Warboss In Mega Armour,2,1,1,Orks
+Weirdboy,2,1,1,Orks
+Wurrboy,2,1,1,Orks
+Zodgrod Wortsnagga,2,1,1,Orks
+Beast Snagga Boyz,2,10,20,Orks
+Boyz,2,10,20,Orks
+Trukk,2,1,1,Orks
+Big'ed Bossbunka,2,1,1,Orks
+Battlewagon,2,1,1,Orks
+Blitza-bommer,2,1,1,Orks
+Boomdakka Snazzwagon,2,1,1,Orks
+Burna Boyz,2,5,10,Orks
+Burna-bommer,2,1,1,Orks
+Dakkajet,2,1,1,Orks
+Deff Dread,2,1,1,Orks
+Deffkoptas,2,3,6,Orks
+Flash Gitz,2,5,10,Orks
+Gorkanaut,2,1,1,Orks
+Gretchin,2,11,22,Orks
+Hunta Rig,2,1,1,Orks
+Kill Rig,2,1,1,Orks
+Killa Kans,2,3,6,Orks
+Kommandos,2,10,10,Orks
+Kustom Boosta-blasta,2,1,1,Orks
+Lootas,2,5,10,Orks
+Meganobz,2,2,6,Orks
+Megatrakk Scrapjet,2,1,1,Orks
+Mek Gunz,2,1,3,Orks
+Morkanaut,2,1,1,Orks
+Nobz,2,5,10,Orks
+Rukkatrukk Squigbuggy,2,1,1,Orks
+Shokkjump Dragsta,2,1,1,Orks
+Squighog Boyz,2,4,8,Orks
+Stompa,2,1,1,Orks
+Stormboyz,2,5,10,Orks
+Tankbustas,2,5,5,Orks
+Warbikers,2,3,6,Orks
+Wazbom Blastajet,2,1,1,Orks
+Gargantuan Squiggoth,2,1,1,Orks
+Cadre Fireblade,2,1,1,T'au Empire
+Commander Farsight,2,1,1,T'au Empire
+Commander In Coldstar Battlesuit,2,1,1,T'au Empire
+Commander In Enforcer Battlesuit,2,1,1,T'au Empire
+Commander Shadowsun,2,1,1,T'au Empire
+Darkstrider,2,1,1,T'au Empire
+Ethereal,2,1,1,T'au Empire
+Firesight Team,2,1,1,T'au Empire
+Kroot Flesh Shaper,2,1,1,T'au Empire
+Kroot Lone-Spear,2,1,1,T'au Empire
+Kroot Trail Shaper,2,1,1,T'au Empire
+Kroot War Shaper,2,1,1,T'au Empire
+Breacher Team,2,10,10,T'au Empire
+Strike Team,2,10,10,T'au Empire
+Devilfish,2,1,1,T'au Empire
+Tidewall Droneport,2,1,1,T'au Empire
+Tidewall Gunrig,2,1,1,T'au Empire
+Tidewall Shieldline,2,1,1,T'au Empire
+Broadside Battlesuits,2,1,3,T'au Empire
+Crisis Fireknife Battlesuits,2,3,3,T'au Empire
+Crisis Starscythe Battlesuits,2,3,3,T'au Empire
+Crisis Sunforge Battlesuits,2,3,3,T'au Empire
+Ghostkeel Battlesuit,2,1,1,T'au Empire
+Hammerhead Gunship,2,1,1,T'au Empire
+Kroot Carnivores,2,10,20,T'au Empire
+Kroot Farstalkers,2,12,12,T'au Empire
+Kroot Hounds,2,5,10,T'au Empire
+Krootox Rampagers,2,3,6,T'au Empire
+Krootox Riders,2,1,3,T'au Empire
+Pathfinder Team,2,10,10,T'au Empire
+Piranhas,2,1,3,T'au Empire
+Razorshark Strike Fighter,2,1,1,T'au Empire
+Riptide Battlesuit,2,1,1,T'au Empire
+Sky Ray Gunship,2,1,1,T'au Empire
+Stealth Battlesuits,2,3,6,T'au Empire
+Stormsurge,2,1,1,T'au Empire
+Sun Shark Bomber,2,1,1,T'au Empire
+Vespid Stingwings,2,5,5,T'au Empire
+AX-1-0 Tiger Shark,2,1,1,T'au Empire
+Manta,2,1,1,T'au Empire
+Ta’unar Supremacy Armour,2,1,1,T'au Empire
+Tiger Shark,2,1,1,T'au Empire
+Broodlord,2,1,1,Tyranids
+Deathleaper,2,1,1,Tyranids
+Hive Tyrant,2,1,1,Tyranids
+Neurotyrant,2,1,1,Tyranids
+Old One Eye,2,1,1,Tyranids
+Parasite Of Mortrex,2,1,1,Tyranids
+Tervigon,2,1,1,Tyranids
+The Swarmlord,2,1,1,Tyranids
+Winged Hive Tyrant,2,1,1,Tyranids
+Winged Tyranid Prime,2,1,1,Tyranids
+Gargoyles,2,10,20,Tyranids
+Hormagaunts,2,10,20,Tyranids
+Termagants,2,10,20,Tyranids
+Tyrannocyte,2,1,1,Tyranids
+Barbgaunts,2,5,10,Tyranids
+Biovores,2,1,3,Tyranids
+Carnifexes,2,1,2,Tyranids
+Exocrine,2,1,1,Tyranids
+Genestealers,2,5,10,Tyranids
+Harpy,2,1,1,Tyranids
+Haruspex,2,1,1,Tyranids
+Hive Crone,2,1,1,Tyranids
+Hive Guard,2,3,6,Tyranids
+Lictor,2,1,1,Tyranids
+Maleceptor,2,1,1,Tyranids
+Mawloc,2,1,1,Tyranids
+Mucolid Spores,2,1,2,Tyranids
+Neurogaunts,2,11,22,Tyranids
+Neurolictor,2,1,1,Tyranids
+Norn Assimilator,2,1,1,Tyranids
+Norn Emissary,2,1,1,Tyranids
+Psychophage,2,1,1,Tyranids
+Pyrovores,2,1,3,Tyranids
+Raveners,2,3,6,Tyranids
+Ripper Swarms,2,1,3,Tyranids
+Screamer-killer,2,1,1,Tyranids
+Spore Mines,2,3,6,Tyranids
+Sporocyst,2,1,1,Tyranids
+Toxicrene,2,1,1,Tyranids
+Trygon,2,1,1,Tyranids
+Tyranid Warriors With Melee Bio-weapons,2,3,6,Tyranids
+Tyranid Warriors With Ranged Bio-weapons,2,3,6,Tyranids
+Tyrannofex,2,1,1,Tyranids
+Tyrant Guard,2,3,6,Tyranids
+Venomthropes,2,3,6,Tyranids
+Von Ryan’s Leapers,2,3,6,Tyranids
+Zoanthropes,2,3,6,Tyranids
+Harridan,2,1,1,Tyranids
+Hierophant,2,1,1,Tyranids

@@ -1,0 +1,475 @@
+MODEL_NAME,game_type_id,unit_size_min,unit_size_max,faction
+Battle Sister (Warrior),3,1,1,Ecclesiarchy
+Battle Sister (Icon Bearer),3,1,1,Ecclesiarchy
+Battle Sister (Gunner),3,1,1,Ecclesiarchy
+Battle Sister (Heavy Gunner),3,1,1,Ecclesiarchy
+Battle Sister Superior,3,1,1,Ecclesiarchy
+Sister Repentia,3,1,1,Ecclesiarchy
+Repentia Superior,3,1,1,Ecclesiarchy
+Acro-flagellant,3,1,1,Ecclesiarchy
+Novitiate Militant,3,1,1,Novitiate
+Novitiate Superior,3,1,1,Novitiate
+Novitiate Penitent,3,1,1,Novitiate
+Novitiate Purgatus,3,1,1,Novitiate
+Novitiate Pronatus,3,1,1,Novitiate
+Novitiate Exactor,3,1,1,Novitiate
+Novitiate Reliquarius,3,1,1,Novitiate
+Novitiate Hospitaller,3,1,1,Novitiate
+Novitiate Preceptor,3,1,1,Novitiate
+Novitiate Dialogus,3,1,1,Novitiate
+Novitiate Duellist,3,1,1,Novitiate
+Novitiate Condemnor,3,1,1,Novitiate
+Custodian Guard (Warrior),3,1,1,Talons of the Emporer
+Custodian Guard (Leader),3,1,1,Talons of the Emporer
+Sister of Silence Prosecutor,3,1,1,Talons of the Emporer
+Sister of Silence Witchseeker,3,1,1,Talons of the Emporer
+Sister of Silence Vigilator,3,1,1,Talons of the Emporer
+Sister of Silence Superior,3,1,1,Talons of the Emporer
+Skitarii Ranger Marksman,3,1,1,Talons of the Emporer
+Skitarii Ranger Diktat,3,1,1,Hunter Clade
+Skitarii Ranger Surveyor,3,1,1,Hunter Clade
+Skitarii Ranger Gunner,3,1,1,Hunter Clade
+Skitarii Ranger Alpha,3,1,1,Hunter Clade
+Skitarii Vanguard Shocktrooper,3,1,1,Hunter Clade
+Skitarii Vanguard Diktat,3,1,1,Hunter Clade
+Skitarii Vanguard Surveyor,3,1,1,Hunter Clade
+Skitarii Vanguard Gunner,3,1,1,Hunter Clade
+Skitarii Vanguard Alpha,3,1,1,Hunter Clade
+Sicarian Ruststalker Assassin,3,1,1,Hunter Clade
+Sicarian Ruststalker Princeps,3,1,1,Hunter Clade
+Sicarian Infiltrator Tracker,3,1,1,Hunter Clade
+Sicarian Infiltrator Princeps,3,1,1,Hunter Clade
+Elucia Vhane,3,1,1,Elucidian Starstrider
+Canid,3,1,1,Elucidian Starstrider
+Death Cult Executioner,3,1,1,Elucidian Starstrider
+Lectro-Maester,3,1,1,Elucidian Starstrider
+Rejuvenat Adept,3,1,1,Elucidian Starstrider
+Voidmaster,3,1,1,Elucidian Starstrider
+Voidsman,3,1,1,Elucidian Starstrider
+Arbites Proctor-exactant,3,1,1,Exaction Squad
+Arbites Castigator,3,1,1,Exaction Squad
+Arbites Chirurgant,3,1,1,Exaction Squad
+Arbites Gunner,3,1,1,Exaction Squad
+Arbites Leashmaster,3,1,1,Exaction Squad
+R-VR Cyber-mastiff,3,1,1,Exaction Squad
+Arbites Malocator,3,1,1,Exaction Squad
+Arbites Marksman,3,1,1,Exaction Squad
+Arbites Revelatum,3,1,1,Exaction Squad
+Arbites Subductor,3,1,1,Exaction Squad
+Arbites Vigilant,3,1,1,Exaction Squad
+Arbites Vox-signifier,3,1,1,Exaction Squad
+Navis Sergeant-At-Arms,3,1,1,Imperial Navy Breacher
+Navis Armsman,3,1,1,Imperial Navy Breacher
+Navis Axejack,3,1,1,Imperial Navy Breacher
+Navis C.A.T. Unit,3,1,1,Imperial Navy Breacher
+Navis Endurant,3,1,1,Imperial Navy Breacher
+Navis Gheistskull,3,1,1,Imperial Navy Breacher
+Navis Grenadier,3,1,1,Imperial Navy Breacher
+Navis Gunner,3,1,1,Imperial Navy Breacher
+Navis Hatchcutter,3,1,1,Imperial Navy Breacher
+Navis Surveyor,3,1,1,Imperial Navy Breacher
+Navis Void-jammer,3,1,1,Imperial Navy Breacher
+Interrogator Agent,3,1,1,Inquisitorial Agent
+Tome-skull,3,1,1,Inquisitorial Agent
+Autosavant Agent,3,1,1,Inquisitorial Agent
+Questkeeper Agent,3,1,1,Inquisitorial Agent
+Death World Veteran Agent,3,1,1,Inquisitorial Agent
+Enlightener Agent,3,1,1,Inquisitorial Agent
+Gun Servitor,3,1,1,Inquisitorial Agent
+Hexorcist Agent,3,1,1,Inquisitorial Agent
+Mystic Agent,3,1,1,Inquisitorial Agent
+Penal Legionnaire Agent,3,1,1,Inquisitorial Agent
+Pistolier Agent,3,1,1,Inquisitorial Agent
+Sister of Silence Prosecutor,3,1,1,Inquisitorial Agent
+Sister of Silence Vigilator,3,1,1,Inquisitorial Agent
+Sister of Silence Witchseeker,3,1,1,Inquisitorial Agent
+Tempestus Scion Comms,3,1,1,Inquisitorial Agent
+Tempestus Scion Gunner,3,1,1,Inquisitorial Agent
+Tempestus Scion Medic,3,1,1,Inquisitorial Agent
+Tempestus Scion Trooper,3,1,1,Inquisitorial Agent
+Guardsman (Trooper),3,1,1,Imperial Guard
+Guardsman (Comms),3,1,1,Imperial Guard
+Guardsman (Gunner),3,1,1,Imperial Guard
+Guardsman Sergeant,3,1,1,Imperial Guard
+Tempestus Scion (Trooper),3,1,1,Imperial Guard
+Tempestus Scion (Comms),3,1,1,Imperial Guard
+Tempestus Scion (Gunner),3,1,1,Imperial Guard
+Tempestor,3,1,1,Imperial Guard
+Kasrkin Sergeant,3,1,1,Kasrkin
+Kasrkin Combat Medic,3,1,1,Kasrkin
+Kasrkin Demo-trooper,3,1,1,Kasrkin
+Kasrkin Gunner,3,1,1,Kasrkin
+Kasrkin Recon-trooper,3,1,1,Kasrkin
+Kasrkin Sharpshooter,3,1,1,Kasrkin
+Kasrkin Trooper,3,1,1,Kasrkin
+Kasrkin Vox-trooper,3,1,1,Kasrkin
+Trooper Veteran,3,1,1,Veteran Guardsman
+Sergeant Veteran,3,1,1,Veteran Guardsman
+Sniper Veteran,3,1,1,Veteran Guardsman
+Gunner Veteran,3,1,1,Veteran Guardsman
+Confidant Veteran,3,1,1,Veteran Guardsman
+Demolition Veteran,3,1,1,Veteran Guardsman
+Zealot Veteran,3,1,1,Veteran Guardsman
+Medic Veteran,3,1,1,Veteran Guardsman
+Comms Veteran,3,1,1,Veteran Guardsman
+Bruiser Veteran,3,1,1,Veteran Guardsman
+Hardened Veteran,3,1,1,Veteran Guardsman
+Spotter Veteran,3,1,1,Veteran Guardsman
+Grey Knight (Warrior),3,1,1,Grey Knight
+Grey Knight (Gunner),3,1,1,Grey Knight
+Grey Knight Justicar,3,1,1,Grey Knight
+Assault Intercessor Sergeant,3,1,1,Intercession Squad
+Intercessor Sergeant,3,1,1,Intercession Squad
+Assault Intercessor Warrior,3,1,1,Intercession Squad
+Assault Intercessor Grenadier,3,1,1,Intercession Squad
+Intercessor Warrior,3,1,1,Intercession Squad
+Intercessor Gunner,3,1,1,Intercession Squad
+Infiltrator Commsman,3,1,1,Phobos Strike Team
+Infiltrator Helix Adept,3,1,1,Phobos Strike Team
+Infiltrator Saboteur,3,1,1,Phobos Strike Team
+Infiltrator Veteran,3,1,1,Phobos Strike Team
+Infiltrator Voxbreaker,3,1,1,Phobos Strike Team
+Infiltrator Warrior,3,1,1,Phobos Strike Team
+Infiltrator Sergeant,3,1,1,Phobos Strike Team
+Incursor Marksman,3,1,1,Phobos Strike Team
+Incursor Minelayer,3,1,1,Phobos Strike Team
+Incursor Warrior,3,1,1,Phobos Strike Team
+Incursor Sergeant,3,1,1,Phobos Strike Team
+Reiver Warrior,3,1,1,Phobos Strike Team
+Reiver Sergeant,3,1,1,Phobos Strike Team
+Scout Sergeant,3,1,1,Scout Squad
+Scout Heavy Gunner,3,1,1,Scout Squad
+Scout Hunter,3,1,1,Scout Squad
+Scout Sniper,3,1,1,Scout Squad
+Scout Tracker,3,1,1,Scout Squad
+Scout Warrior,3,1,1,Space Marine
+Intercessor (Warrior),3,1,1,Space Marine
+Intercessor Sergeant,3,1,1,Space Marine
+Assault Intercessor (Warrior),3,1,1,Space Marine
+Assault Intercessor Sergeant,3,1,1,Space Marine
+Infiltrator (Warrior),3,1,1,Space Marine
+Infiltrator Sergeant,3,1,1,Space Marine
+Incursor (Warrior),3,1,1,Space Marine
+Incursor Sergeant,3,1,1,Space Marine
+Reiver (Warrior),3,1,1,Space Marine
+Reiver Sergeant,3,1,1,Space Marine
+Heavy Intercessor (Warrior),3,1,1,Space Marine
+Heavy Intercessor (Heavy Gunner),3,1,1,Space Marine
+Heavy Intercessor Sergeant,3,1,1,Space Marine
+Tactical Marine (Warrior),3,1,1,Space Marine
+Tactical Marine (Gunner),3,1,1,Space Marine
+Tactical Marine (Heavy Gunner),3,1,1,Space Marine
+Tactical Marine Sergeant,3,1,1,Space Marine
+Scout (Warrior),3,1,1,Space Marine
+Scout (Heavy Gunner),3,1,1,Space Marine
+Scout Sergeant,3,1,1,Space Marine
+Scout Sniper (Warrior),3,1,1,Space Marine
+Scout Sniper Sergeant,3,1,1,Space Marine
+Deathwatch Veteran (Warrior),3,1,1,Space Marine
+Deathwatch Veteran (Fighter),3,1,1,Space Marine
+Deathwatch Veteran (Gunner),3,1,1,Space Marine
+Deathwatch Veteran (Heavy Gunner),3,1,1,Space Marine
+Deathwatch Veteran Watch Sergeant,3,1,1,Space Marine
+Captain Justian,3,1,1,Strike Force Justain
+Sergeant Marius,3,1,1,Strike Force Justain
+Brother Flavian,3,1,1,Strike Force Justain
+Brother Acules,3,1,1,Strike Force Justain
+Brother Vignus,3,1,1,Strike Force Justain
+Brother Thysor,3,1,1,Strike Force Justain
+Brother Decian,3,1,1,Strike Force Justain
+Bloodletter (Fighter),3,1,1,Chaos Daemon
+Bloodletter (Icon Bearer),3,1,1,Chaos Daemon
+Bloodletter (Horn Bearer),3,1,1,Chaos Daemon
+Bloodreaper,3,1,1,Chaos Daemon
+Daemonette (Fighter),3,1,1,Chaos Daemon
+Daemonette (Icon Bearer),3,1,1,Chaos Daemon
+Daemonette (Horn Bearer),3,1,1,Chaos Daemon
+Alluress,3,1,1,Chaos Daemon
+Plaguebearer (Fighter),3,1,1,Chaos Daemon
+Plaguebearer (Icon Bearer),3,1,1,Chaos Daemon
+Plaguebearer (Horn Bearer),3,1,1,Chaos Daemon
+Plagueridden,3,1,1,Chaos Daemon
+Pink Horror (Fighter),3,1,1,Chaos Daemon
+Pink Horror (Icon Bearer),3,1,1,Chaos Daemon
+Pink Horror (Horn Bearer),3,1,1,Chaos Daemon
+Pink Horror Iridescent,3,1,1,Chaos Daemon
+Blue Horror,3,1,1,Chaos Daemon
+Brimstone Horrors,3,1,1,Chaos Daemon
+Vulgrar Thrice-Cursed,3,1,1,Gellerpox Infected
+Bloatspawn,3,1,1,Gellerpox Infected
+Fleshscreamer,3,1,1,Gellerpox Infected
+Lumberghast,3,1,1,Gellerpox Infected
+Gellerpox Mutant,3,1,1,Gellerpox Infected
+Glitchling,3,1,1,Gellerpox Infected
+Legionary Warrior,3,1,1,Legionary
+Legionary Gunner,3,1,1,Legionary
+Legionary Heavy Gunner,3,1,1,Legionary
+Legionary Anointed,3,1,1,Legionary
+Legionary Butcher,3,1,1,Legionary
+Legionary Shrivetalon,3,1,1,Legionary
+Legionary Icon Bearer,3,1,1,Legionary
+Legionary Balefire Acolyte,3,1,1,Legionary
+Legionary Chosen,3,1,1,Legionary
+Legionary Aspiring Champion,3,1,1,Legionary
+Night Lord Visionary,3,1,1,Nemesis Claw
+Night Lord Fearmonger,3,1,1,Nemesis Claw
+Night Lord Gunner,3,1,1,Nemesis Claw
+Night Lord Heavy Gunner,3,1,1,Nemesis Claw
+Night Lord Screecher,3,1,1,Nemesis Claw
+Night Lord Skinthief,3,1,1,Nemesis Claw
+Night Lord Ventrilokar,3,1,1,Nemesis Claw
+Night Lord Warrior,3,1,1,Nemesis Claw
+Chaos Space Marine (Warrior),3,1,1,Traitor Space Marine
+Chaos Space Marine (Gunner),3,1,1,Traitor Space Marine
+Chaos Space Marine (Heavy Gunner),3,1,1,Traitor Space Marine
+Chaos Space Marine (Icon Bearer),3,1,1,Traitor Space Marine
+Chaos Space Marine Aspiring Champion,3,1,1,Traitor Space Marine
+Chaos Cultist (Fighter),3,1,1,Traitor Space Marine
+Chaos Cultist (Gunner),3,1,1,Traitor Space Marine
+Chaos Cultist Champion,3,1,1,Traitor Space Marine
+Traitor Brimstone Grenadier,3,1,1,Blooded
+Traitor Butcher,3,1,1,Blooded
+Traitor Commsman,3,1,1,Blooded
+Traitor Corpseman,3,1,1,Blooded
+Traitor Enforcer,3,1,1,Blooded
+Traitor Flenser,3,1,1,Blooded
+Traitor Gunner,3,1,1,Blooded
+Traitor Ogryn,3,1,1,Blooded
+Traitor Sharpshooter,3,1,1,Blooded
+Traitor Thug,3,1,1,Blooded
+Traitor Trench Sweeper,3,1,1,Blooded
+Traitor Trooper,3,1,1,Blooded
+Traitor Chieftain,3,1,1,Blooded
+Cult Demagogue,3,1,1,Chaos Cult
+Blessed Blade,3,1,1,Chaos Cult
+Iconarch,3,1,1,Chaos Cult
+Mindwitch,3,1,1,Chaos Cult
+Chaos Devotee,3,1,1,Chaos Cult
+Chaos Mutant,3,1,1,Chaos Cult
+Chaos Torment,3,1,1,Chaos Cult
+Fellgor Ironhorn,3,1,1,Fellgor Ravager
+Fellgor Deathknell,3,1,1,Fellgor Ravager
+Fellgor Fluxbray,3,1,1,Fellgor Ravager
+Fellgor Gnarlscar,3,1,1,Fellgor Ravager
+Fellgor Gorehorn,3,1,1,Fellgor Ravager
+Fellgor Herd-goad,3,1,1,Fellgor Ravager
+Fellgor Mangler,3,1,1,Fellgor Ravager
+Fellgor Shaman,3,1,1,Fellgor Ravager
+Fellgor Toxhorn,3,1,1,Fellgor Ravager
+Fellgor Vandal,3,1,1,Fellgor Ravager
+Fellgor Warrior,3,1,1,Fellgor Ravager
+Plague Marine (Warrior),3,1,1,Death Guard
+Plague Marine (Gunner),3,1,1,Death Guard
+Plague Marine (Heavy Gunner),3,1,1,Death Guard
+Plague Marine (Fighter),3,1,1,Death Guard
+Plague Marine (Icon Bearer),3,1,1,Death Guard
+Plague Marine Champion,3,1,1,Death Guard
+Poxwalker,3,1,1,Death Guard
+Sorcerer,3,1,1,Warpcoven
+Rubric Marine Gunner,3,1,1,Warpcoven
+Rubric Marine Icon Bearer,3,1,1,Warpcoven
+Rubric Marine Warrior,3,1,1,Warpcoven
+Tzaangor Champion,3,1,1,Warpcoven
+Tzaangor Fighter,3,1,1,Warpcoven
+Tzaangor Horn Bearer,3,1,1,Warpcoven
+Tzaangor Icon Bearer,3,1,1,Warpcoven
+Voidscarred Warrior,3,1,1,Corsair Voidscarred
+Voidscarred Gunner,3,1,1,Corsair Voidscarred
+Voidscarred Heavy Gunner,3,1,1,Corsair Voidscarred
+Voidscarred Starstorm Duellist,3,1,1,Corsair Voidscarred
+Voidscarred Kurnite Hunter,3,1,1,Corsair Voidscarred
+Voidscarred Shade Runner,3,1,1,Corsair Voidscarred
+Voidscarred Kurnathi,3,1,1,Corsair Voidscarred
+Voidscarred Fate Dealer,3,1,1,Corsair Voidscarred
+Voidscarred Way Seeker,3,1,1,Corsair Voidscarred
+Voidscarred Soul Weaver,3,1,1,Corsair Voidscarred
+Voidscarred Felarch,3,1,1,Corsair Voidscarred
+Dire Avenger Exarch,3,1,1,Blades of Khaine
+Dire Avenger Warrior,3,1,1,Blades of Khaine
+Howling Banshee Exarch,3,1,1,Blades of Khaine
+Howling Banshee Warrior,3,1,1,Blades of Khaine
+Striking Scorpion Exarch,3,1,1,Blades of Khaine
+Striking Scorpion Warrior,3,1,1,Blades of Khaine
+Guardian Defender (Warrior),3,1,1,Craftworld
+Guardian Defender (Heavy Gunner),3,1,1,Craftworld
+Guardian Defender Heavy Weapon Platform,3,1,1,Craftworld
+Guardian Defender (Leader),3,1,1,Craftworld
+Storm Guardian (Warrior),3,1,1,Craftworld
+Storm Guardian (Gunner),3,1,1,Craftworld
+Storm Guardian (Leader),3,1,1,Craftworld
+Ranger (Warrior),3,1,1,Craftworld
+Ranger (Leader),3,1,1,Craftworld
+Dire Avenger (Warrior),3,1,1,Craftworld
+Dire Avenger Exarch,3,1,1,Craftworld
+Kabalite (Warrior),3,1,1,Commorrite
+Sybarite,3,1,1,Commorrite
+Kabalite (Gunner),3,1,1,Commorrite
+Kabalite (Heavy Gunner),3,1,1,Commorrite
+Wych (Warrior),3,1,1,Commorrite
+Hekatrix,3,1,1,Commorrite
+Wych (Fighter),3,1,1,Commorrite
+Kabalite Archsybarite,3,1,1,Hand of the Archon
+Kabalite Agent,3,1,1,Hand of the Archon
+Kabalite Crimson Duellist,3,1,1,Hand of the Archon
+Kabalite Disciple of Yaelindra,3,1,1,Hand of the Archon
+Kabalite Elixicant,3,1,1,Hand of the Archon
+Kabalite Flayer,3,1,1,Hand of the Archon
+Kabalite Gunner,3,1,1,Hand of the Archon
+Kabalite Heavy Gunner,3,1,1,Hand of the Archon
+Kabalite Skysplinter Assassin,3,1,1,Hand of the Archon
+Mandrake Nightfiend,3,1,1,Mandrake
+Mandrake Abyssal,3,1,1,Mandrake
+Mandrake Chooser of the Flesh,3,1,1,Mandrake
+Mandrake Dirgemaw,3,1,1,Mandrake
+Mandrake Shadeweaver,3,1,1,Mandrake
+Mandrake Warrior,3,1,1,Mandrake
+Lead Player,3,1,1,Void-dancer Troupe
+Death Jester,3,1,1,Void-dancer Troupe
+Player,3,1,1,Void-dancer Troupe
+Shadowseer,3,1,1,Void-dancer Troupe
+Brood Brother Commander,3,1,1,Brood Brother
+Brood Brother Agitator,3,1,1,Brood Brother
+Brood Brother Gunner,3,1,1,Brood Brother
+Brood Brother Iconward,3,1,1,Brood Brother
+Brood Brother Knife Fighter,3,1,1,Brood Brother
+Brood Brother Medic,3,1,1,Brood Brother
+Brood Brother Sapper,3,1,1,Brood Brother
+Brood Brother Sniper,3,1,1,Brood Brother
+Brood Brother Trooper,3,1,1,Brood Brother
+Brood Brother Veteran,3,1,1,Brood Brother
+Brood Brother Vox Operator,3,1,1,Brood Brother
+Psychic Familiar,3,1,1,Brood Brother
+Magus,3,1,1,Brood Brother
+Patriarch,3,1,1,Brood Brother
+Primus,3,1,1,Brood Brother
+Neophyte Hybrid (Trooper),3,1,1,Brood Coven
+Neophyte Hybrid (Gunner),3,1,1,Brood Coven
+Neophyte Hybrid (Heavy Gunner),3,1,1,Brood Coven
+Neophyte Hybrid (Icon Bearer),3,1,1,Brood Coven
+Neophyte Hybrid (Leader),3,1,1,Brood Coven
+Acolyte Hybrid (Trooper),3,1,1,Brood Coven
+Acolyte Hybrid (Gunner),3,1,1,Brood Coven
+Acolyte Hybrid (Fighter),3,1,1,Brood Coven
+Acolyte Hybrid (Icon Bearer),3,1,1,Brood Coven
+Acolyte Hybrid (Leader),3,1,1,Brood Coven
+Hybrid Metamorph (Fighter),3,1,1,Brood Coven
+Hybrid Metamorph (Gunner),3,1,1,Brood Coven
+Hybrid Metamorph (Icon Bearer),3,1,1,Brood Coven
+Hybrid Metamorph (Leader),3,1,1,Brood Coven
+Neophyte Leader,3,1,1,Wyrmblade
+Kelermorph,3,1,1,Wyrmblade
+Neophyte Brood-Adept,3,1,1,Wyrmblade
+Neophyte Gunner,3,1,1,Wyrmblade
+Neophyte Heavy Gunner,3,1,1,Wyrmblade
+Neophyte Icon Bearer,3,1,1,Wyrmblade
+Sanctus Sniper,3,1,1,Wyrmblade
+Sanctus Talon,3,1,1,Wyrmblade
+Locus,3,1,1,Wyrmblade
+Kroot Carnivore (Warrior),3,1,1,Cadre Mercenary
+Kroot Carnivore (Leader),3,1,1,Cadre Mercenary
+Kroot Hound,3,1,1,Cadre Mercenary
+Krootox,3,1,1,Cadre Mercenary
+Kroot Kill-broker,3,1,1,Farstalker Kinband
+Kroot Bow-hunter,3,1,1,Farstalker Kinband
+Kroot Cold-blood,3,1,1,Farstalker Kinband
+Kroot Cut-skin,3,1,1,Farstalker Kinband
+Kroot Heavy Gunner,3,1,1,Farstalker Kinband
+Kroot Hound,3,1,1,Farstalker Kinband
+Kroot Long-sight,3,1,1,Farstalker Kinband
+Kroot Pistolier,3,1,1,Farstalker Kinband
+Kroot Stalker,3,1,1,Farstalker Kinband
+Kroot Tracker,3,1,1,Farstalker Kinband
+Kroot Warrior,3,1,1,Farstalker Kinband
+Hearthkyn Theyn,3,1,1,Hearthkyn Salvager
+Hearthkyn Dôzr,3,1,1,Hearthkyn Salvager
+Hearthkyn Field Medic,3,1,1,Hearthkyn Salvager
+Hearthkyn Grenadier,3,1,1,Hearthkyn Salvager
+Hearthkyn Gunner,3,1,1,Hearthkyn Salvager
+Hearthkyn Jump Pack Warrior,3,1,1,Hearthkyn Salvager
+Hearthkyn Kinlynk,3,1,1,Hearthkyn Salvager
+Hearthkyn Kognitâar,3,1,1,Hearthkyn Salvager
+Hearthkyn Lokâtr,3,1,1,Hearthkyn Salvager
+Hearthkyn Lugger,3,1,1,Hearthkyn Salvager
+Hearthkyn Warrior,3,1,1,Hearthkyn Salvager
+Yaegir Theyn,3,1,1,Hernkyn Yaegir
+Yaegir Bladekyn,3,1,1,Hernkyn Yaegir
+Yaegir Bombast,3,1,1,Hernkyn Yaegir
+Yaegir Gunner,3,1,1,Hernkyn Yaegir
+Yaegir Ironbraek,3,1,1,Hernkyn Yaegir
+Yaegir Riflekyn,3,1,1,Hernkyn Yaegir
+Yaegir Tracker,3,1,1,Hernkyn Yaegir
+Yaegir Warrior,3,1,1,Hernkyn Yaegir
+Chronomancer,3,1,1,Hierotek Circle
+Psychomancer,3,1,1,Hierotek Circle
+Technomancer,3,1,1,Hierotek Circle
+Plasmacyte Accelerator,3,1,1,Hierotek Circle
+Plasmacyte Reanimator,3,1,1,Hierotek Circle
+Apprentek,3,1,1,Hierotek Circle
+Deathmark,3,1,1,Hierotek Circle
+Immortal Despotek,3,1,1,Hierotek Circle
+Immortal Guardian,3,1,1,Hierotek Circle
+Necron Warrior,3,1,1,Tomb World
+Immortal (Warrior),3,1,1,Tomb World
+Immortal (Leader),3,1,1,Tomb World
+Flayed One (Warrior),3,1,1,Tomb World
+Flayed One (Leader),3,1,1,Tomb World
+Deathmark (Warrior),3,1,1,Tomb World
+Deathmark (Leader),3,1,1,Tomb World
+Boy (Fighter),3,1,1,Greenskin
+Boss Nob,3,1,1,Greenskin
+Boy (Gunner),3,1,1,Greenskin
+Gretchin,3,1,1,Greenskin
+Clan Kommando (Fighter),3,1,1,Greenskin
+Clan Kommando Nob,3,1,1,Greenskin
+Burna Boy,3,1,1,Greenskin
+Loota,3,1,1,Greenskin
+Spanner,3,1,1,Greenskin
+Kommando Boy,3,1,1,Kommando
+Kommando Slasha Boy,3,1,1,Kommando
+Kommando Breacha Boy,3,1,1,Kommando
+Kommando Snipa Boy,3,1,1,Kommando
+Kommando Dakka Boy,3,1,1,Kommando
+Kommando Comms Boy,3,1,1,Kommando
+Kommando Burna Boy,3,1,1,Kommando
+Kommando Rokkit Boy,3,1,1,Kommando
+Kommando Grot,3,1,1,Kommando
+Kommando Nob,3,1,1,Kommando
+Bomb Squig,3,1,1,Kommando
+Fire Warrior Shas’la,3,1,1,Hunder Cadre
+Fire Warrior Shas’ui,3,1,1,Hunder Cadre
+Pathfinder Shas’la,3,1,1,Hunder Cadre
+Pathfinder (Heavy Gunner),3,1,1,Hunder Cadre
+Pathfinder Shas’ui,3,1,1,Hunder Cadre
+Stealth Battlesuit Shas’ui,3,1,1,Hunder Cadre
+Stealth Battlesuit Shas’vre,3,1,1,Hunder Cadre
+MV1 Gun Drone,3,1,1,Hunder Cadre
+MV4 Shield Drone,3,1,1,Hunder Cadre
+MV36 Guardian Drone,3,1,1,Hunder Cadre
+MV31 Pulse Accelerator Drone,3,1,1,Hunder Cadre
+MV33 Grav-inhibitor Drone,3,1,1,Hunder Cadre
+MV7 Marker Drone,3,1,1,Hunder Cadre
+MB3 Recon Drone,3,1,1,Hunder Cadre
+DS8 Tactical Support Turret,3,1,1,Hunder Cadre
+Shas’ui Pathfinder,3,1,1,Pathfinder
+Shas’la Pathfinder,3,1,1,Pathfinder
+Blooded Pathfinder,3,1,1,Pathfinder
+Drone Controller Pathfinder,3,1,1,Pathfinder
+Transpectral Interference Pathfinder,3,1,1,Pathfinder
+Assault Grenadier Pathfinder,3,1,1,Pathfinder
+Communications Specialist Pathfinder,3,1,1,Pathfinder
+Medical Technician Pathfinder,3,1,1,Pathfinder
+Weapons Expert Pathfinder,3,1,1,Pathfinder
+Marksman Pathfinder,3,1,1,Pathfinder
+MB3 Recon Drone,3,1,1,Pathfinder
+MV1 Gun Drone,3,1,1,Pathfinder
+MV4 Shield Drone,3,1,1,Pathfinder
+MV7 Marker Drone,3,1,1,Pathfinder
+MV31 Pulse Accelerator Drone,3,1,1,Pathfinder
+MV33 Grav-inhibitor Drone,3,1,1,Pathfinder
+Genestealer (Fighter),3,1,1,Hive Fleet
+Genestealer (Leader),3,1,1,Hive Fleet
+Tyranid Warrior (Fighter),3,1,1,Hive Fleet
+Tyranid Warrior (Heavy Gunner),3,1,1,Hive Fleet
+Tyranid Warrior (Leader),3,1,1,Hive Fleet
+Termagant,3,1,1,Hive Fleet
+Hormagaunt,3,1,1,Hive Fleet
